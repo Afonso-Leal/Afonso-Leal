@@ -1,4 +1,4 @@
-<p align="center"><txt width="80%" alt="Hello! I'm Gabriel and i do stuff" src="./assets/gh-readme-header.png" /></p>
+<p align="center">Hello! I'm Gabriel and i do stuff</p>
 
 <br />
 
