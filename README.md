@@ -8,11 +8,9 @@ New on personal Git (●'◡'●), just some college small projects for now
 
 **About me**
 
-- 💼 Software analyst ate Siemens
+- 💼 Senior QA engineer at WIPRO
 
 - 📈 Working on automation develop, firmware develop, hardware develop and machine learning
-
-- ❤️ I love payment aligned with effort
 
 - 💬 Feel free to contact me on my <a href="https://www.linkedin.com/in/gabriel-leal-aprender/"><img width="80%" alt="LinkedIn" src="./assets/gh-readme-header.png" /></a>
 
